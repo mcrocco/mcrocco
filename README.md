@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Cyber Security</b>
+  - [Vulnerability Management and Remediation with Nessus](https://github.com/mcrocco/Vulnerability-Management-and-Remediation-with-Nessus)
+  - [SIEM (Azure Sentinel) Live Cyberattack Map ](https://github.com/mcrocco/azure-sentinel-map)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mcrocco/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mcrocco/post-install-config)
@@ -9,7 +12,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mcrocco/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mcrocco/azure-network-protocols)
-  - [SIEM (Azure Sentinel) Live Cyberattack Map ](https://github.com/mcrocco/azure-sentinel-map)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Mason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
