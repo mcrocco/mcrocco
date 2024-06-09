@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mason, an <a href="https://www.linkedin.com/in/mason-crocco/">IT/Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Cyber Security</b>
   - [Vulnerability Management and Remediation with Nessus](https://github.com/mcrocco/Vulnerability-Management-and-Remediation-with-Nessus)
