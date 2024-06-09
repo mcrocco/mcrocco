@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Cyber Security</b>
+- <b>Cybersecurity</b>
   - [Vulnerability Management and Remediation with Nessus](https://github.com/mcrocco/Vulnerability-Management-and-Remediation-with-Nessus)
   - [SIEM (Azure Sentinel) Live Cyberattack Map ](https://github.com/mcrocco/azure-sentinel-map)
   - [File Integrity Monitoring (FIM) with Python](https://github.com/mcrocco/FIM-with-Python)
