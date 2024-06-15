@@ -6,6 +6,7 @@
   - [Vulnerability Management and Remediation with Nessus](https://github.com/mcrocco/Vulnerability-Management-and-Remediation-with-Nessus)
   - [SIEM (Azure Sentinel) Live Cyberattack Map ](https://github.com/mcrocco/azure-sentinel-map)
   - [File Integrity Monitoring (FIM) with Python](https://github.com/mcrocco/FIM-with-Python)
+  - [Utilizing Metasploit for Penetration Testing](https://github.com/mcrocco/Metasploit-Pen-Test-Lab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mcrocco/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mcrocco/post-install-config)
