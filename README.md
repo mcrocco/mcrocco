@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Networking</b>
-  - [Configuring an Enterprise 3-Layer LAN Architecture](https://github.com/mcrocco/configure-enterprise-network)
+  - [Configuring a Cisco Enterprise 3-Layer LAN Architecture](https://github.com/mcrocco/Cisco-Enterprise-Network)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mcrocco/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mcrocco/azure-network-protocols)
 - <b>Cybersecurity</b>
