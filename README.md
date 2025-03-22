@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mason, a <a href="https://www.linkedin.com/in/mason-crocco/">IT Professional</a></h1>
+<h1>Hi, I'm Mason, a <a href="https://www.linkedin.com/in/mason-crocco/">Network Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
