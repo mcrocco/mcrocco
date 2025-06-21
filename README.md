@@ -4,7 +4,7 @@
 
 - <b>Networking</b>
   - [Configuring a Cisco Enterprise 3-Layer LAN Architecture](https://github.com/mcrocco/Cisco-Enterprise-Network)
-  - [Configuring a Wireless Network based on Split-MAC Architecture](https://github.com/mcrocco/Cisco-WLC-Split-MAC-Configuration)
+  - [Configuring a Wireless Network based on Split-MAC Architecture](https://github.com/mcrocco/Cisco-Wireless-Network-Configuration)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mcrocco/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mcrocco/azure-network-protocols)
 - <b>Cybersecurity</b>
